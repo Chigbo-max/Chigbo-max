@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Chigbo
-- 👀 I’m interested in ...
+- 👀 I’m interested in (in view)
 - 🌱 I’m currently learning Java, python, industrial design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on (in view)
 - 📫 How to reach me ezeokeke.chigbo@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love good pictures
 
 <!---
