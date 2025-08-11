@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chigbo
-- 👀 I’m interested in backend, frontend and full stack roles
-- 🌱 I’m currently equipped in java, python, javascript, reactjs, react native, mySql, mongoDB, tailwind css, django, flask, springboot, industrial design
+- 👀 I’m interested in backend, frontend, and full stack roles
+- 🌱 I’m currently equipped in Java, Python, Javascript, NodeJs, Reactjs, react native, PostgreSQL, MySql, MongoDB, Tailwind css, Django, Flask, Express, springboot, industrial design
 - 💞️ I’m looking to collaborate on frontend or backend roles
 - 📫 How to reach me ezeokeke.chigbo@gmail.com
 - ⚡ Fun fact: I love good pictures
